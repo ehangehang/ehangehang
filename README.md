@@ -13,10 +13,3 @@ These are the important stuff you can know about me!
 📱 Flutter, Java, Kotlin, and React Native
 
 💻 React, NextJS, and JavaScript
-
-### My top works! 💪
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ehangehang&repo=react-sky-angel)](https://github.com/ehangehang/react-sky-angel)&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ehangehang&repo=motion-hack-dinotis)](https://github.com/ehangehang/motion-hack-dinotis)<br><br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ehangehang&repo=mangkir-abp-web)](https://github.com/ehangehang/mangkir-abp-web)&nbsp;&nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ehangehang&repo=mangkir-abp-mobile-flutter)](https://github.com/ehangehang/mangkir-abp-mobile-flutter)<br><br>
