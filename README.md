@@ -1,6 +1,6 @@
 # Welcome to my page 👋
 
-[Linkedin](https://www.linkedin.com/in/ehangehang/) | [Twitter](https://twitter.com/ehangehang) | [Instagram](https://www.instagram.com/ehangehang/)
+[Linkedin](https://www.linkedin.com/in/ehangehang/) | [Tableau Public](https://public.tableau.com/app/profile/rayhan.raharyawhedi/vizzes) | [Twitter](https://twitter.com/ehangehang) | [Instagram](https://www.instagram.com/ehangehang/)
 
 > Feel free to look around while you're here 👀
 
