@@ -10,6 +10,8 @@ These are the important stuff you can know about me!
 
 🎓 Informatics Bachelor's @ Telkom University
 
+📊 Python, Jupyter Notebook, and Tableau
+
 📱 Flutter, Java, Kotlin, and React Native
 
 💻 React, NextJS, and JavaScript
